@@ -22,7 +22,7 @@
 
 **Tools** | **Other Skills**
 --- | ---
-[![Tools](https://skillicons.dev/icons?i=firebase,mui,axios,eslint,prisma,docker,github,prettier,tailwindcss,multer)](https://skillicons.dev) | [![Other Skills](https://skillicons.dev/icons?i=aws,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=firebase,mui,axios,eslint,prisma,jest,docker,github,prettier,tailwindcss,multer)](https://skillicons.dev) | [![Other Skills](https://skillicons.dev/icons?i=aws,git)](https://skillicons.dev)
 
 
 
