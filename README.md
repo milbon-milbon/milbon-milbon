@@ -1,5 +1,5 @@
-## Hey there! 👋 I'm Kumi 🌟
-I’m a passionate developer from Japan 🇯🇵. Dive into my GitHub to see my top languages 🖥️, overall stats 📊, and my coding streaks 📅!
+## Hi👋 I'm Kumi.Thank you for comming 🚀
+Dive into my GitHub to see my top languages 🖥️, overall stats 📊, and my coding streaks 📅
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=milbon-milbon&show_icons=true&locale=en&layout=compact)
 
