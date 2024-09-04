@@ -1,15 +1,28 @@
-## Hi👋 I'm milbon,Thank you for comming 🚀
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=milbon-milbon&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milbon-milbon&show_icons=true&locale=en)
+<h2 align="center">
+  <strong>Hi👋 I'm milbon, Thank you for coming 🚀</strong>
+</h2>
 
-## 技術スタック
+<div align="left" style="display: flex; align-items: flex-start;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=milbon-milbon&show_icons=true&locale=en&layout=compact"
+    alt="Top Langs"
+    style="margin-right: 10px; height: 180px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=milbon-milbon&show_icons=true&locale=en"
+    alt="GitHub Stats"
+    style="height: 180px;"
+  />
+</div>
+
+### 技術スタック
 **Programming Languages** | **Frameworks** | **Database**
 --- | --- | ---
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,flask,fastapi)](https://skillicons.dev) | [![Database Management](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 **Tools** | **Other Skills**
 --- | ---
-[![Tools](https://skillicons.dev/icons?i=mui,axios,eslint,docker,github,prettier,tailwindcss,multer)](https://skillicons.dev) | [![Other Skills](https://skillicons.dev/icons?i=aws,git)](https://skillicons.dev) 
+[![Tools](https://skillicons.dev/icons?i=mui,axios,eslint,docker,github,prettier,tailwindcss,multer)](https://skillicons.dev) | [![Other Skills](https://skillicons.dev/icons?i=aws,git)](https://skillicons.dev)
 
 
 
