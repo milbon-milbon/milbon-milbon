@@ -1,7 +1,24 @@
-## Hi👋 I'm Kumi.Thank you for comming 🚀
-Dive into my GitHub to see my top languages 🖥️, overall stats 📊, and my coding streaks 📅
-
+## Hi👋 I'm milbon,Thank you for comming 🚀
+Dive into my GitHub to see my top languages 🖥️, overall stats 📊, and my coding streaks 📅<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=milbon-milbon&show_icons=true&locale=en&layout=compact)
+
+## 技術スタック
+
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev)
+
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,flask,fastapi)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=mui,axios,eslint,docker,github,prettier,tailwindcss,multer)](https://skillicons.dev)
+
+### Database Management
+[![Database Management](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+### Other Skills
+[![Other Skills](https://skillicons.dev/icons?i=aws,git)](https://skillicons.dev)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milbon-milbon&show_icons=true&locale=en)
 
