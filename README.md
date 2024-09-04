@@ -1,5 +1,4 @@
 ## Hi👋 I'm milbon,Thank you for comming 🚀
-Dive into my GitHub to see my top languages 🖥️, overall stats 📊, and my coding streaks 📅<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=milbon-milbon&show_icons=true&locale=en&layout=compact)
 
 ## 技術スタック
