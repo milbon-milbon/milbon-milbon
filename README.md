@@ -1,20 +1,7 @@
 <h2 align="center">
   <strong>Hi👋 I'm milbon, Thank you for coming 🚀</strong>
 </h2>
-
-<div align="left" style="display: flex; align-items: flex-start;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=milbon-milbon&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=000080"
-    alt="Top Langs"
-    style="margin-right: 10px; height: 180px; "
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=milbon-milbon&show_icons=true&locale=en&theme=algolia&bg_color=000080"
-    alt="GitHub Stats"
-    style="height: 180px;"
-  />
-</div>
-
+ 
 ### 🕹️技術スタック
 <table>
   <thead>
@@ -81,11 +68,31 @@
   </tbody>
 </table>
 
+### 📊Data
+<div align="left" style="display: flex; align-items: flex-start;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=milbon-milbon&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=000080"
+    alt="Top Langs"
+    style="margin-right: 10px; height: 150px; "
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=milbon-milbon&show_icons=true&locale=en&theme=algolia&bg_color=000080"
+    alt="GitHub Stats"
+    style="height: 150px;"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=milbon-milbon&show_icons=true&locale=en&theme=algolia&bg_color=000080"
+    alt="GitHub Stats"
+    style="height: 150px;"
+  />
+</div>
 
 
 
 
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=milbon-milbon)-->
+
+
+
 
 
 <!--
