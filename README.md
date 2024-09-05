@@ -4,12 +4,12 @@
 
 <div align="left" style="display: flex; align-items: flex-start;">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=milbon-milbon&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=milbon-milbon&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=000080"
     alt="Top Langs"
-    style="margin-right: 10px; height: 180px;"
+    style="margin-right: 10px; height: 180px; "
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=milbon-milbon&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=milbon-milbon&show_icons=true&locale=en&theme=algolia&bg_color=000080"
     alt="GitHub Stats"
     style="height: 180px;"
   />
@@ -52,31 +52,30 @@
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
         <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/></a>
         <a href="https://www.sqlalchemy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sqlalchemy" width="40" height="40"/></a>
-        <a href="https://alembic.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alembic/alembic-original.svg" alt="alembic" width="40" height="40"/></a>
+<!--         <a href="https://alembic.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alembic/alembic-original.svg" alt="alembic" width="40" height="40"/></a> -->
       </td>
       <td>
         <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></a>
         <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
         <a href="https://eslint.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/></a>
-        <a href="https://prettier.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" alt="prettier" width="40" height="40"/></a>
+<!--         <a href="https://prettier.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" alt="prettier" width="40" height="40"/></a> -->
         <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/></a>
         <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
       </td>
       <td>
         <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-        <a href="https://www.uvicorn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uvicorn/uvicorn-original.svg" alt="uvicorn" width="40" height="40"/></a>
+<!--         <a href="https://www.uvicorn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uvicorn/uvicorn-original.svg" alt="uvicorn" width="40" height="40"/></a> -->
       </td>
       <td>
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/></a>
-        <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google-maps" width="40" height="40"/></a>
-        <a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original-wordmark.svg" alt="stripe" width="40" height="40"/></a>
-        <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
+        <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google-maps" width="60" height="60"/></a>
+<!--         <a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original-wordmark.svg" alt="stripe" width="40" height="40"/></a> -->
       </td>
       <td>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
-        <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original-wordmark.svg" alt="notion" width="40" height="40"/></a>
+<!--         <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original-wordmark.svg" alt="notion" width="40" height="40"/></a> -->
       </td>
     </tr>
   </tbody>
