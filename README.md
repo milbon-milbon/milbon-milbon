@@ -1,7 +1,14 @@
 <h2 align="center">
   <strong>Hi👋 I'm milbon, Thank you for coming 🚀</strong>
 </h2>
- 
+ <p align="left">
+  <a href="https://github.com/milbon-milbon">
+    <img height="20" src="https://komarev.com/ghpvc/?username=milbon-milbon&color=blue" />
+  </a>
+  <a href="https://github.com/milbon-milbon">
+    <img height="20" src="https://img.shields.io/github/followers/milbon-milbon?label=Follow&logo=github&style=flat&color=blue&labelColor=000040" />
+  </a>
+   
 ### 🕹️技術スタック
 <table>
   <thead>
