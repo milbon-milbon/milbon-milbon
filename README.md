@@ -8,6 +8,9 @@
   <a href="https://github.com/milbon-milbon">
     <img height="20" src="https://img.shields.io/github/followers/milbon-milbon?label=Follow&logo=github&style=flat&color=blue&labelColor=000040" />
   </a>
+  <a href="https://zenn.dev/milbon">
+    <img height="20" src="https://img.shields.io/badge/Zenn-Profile-blue" alt="Zenn Badge" />
+  </a>
    
 ### 🕹️技術スタック
 <table>
@@ -96,24 +99,3 @@
 </div>
 
 
-
-
-
-
-
-
-
-<!--
-**milbon-milbon/milbon-milbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
